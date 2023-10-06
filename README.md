@@ -1,1 +1,1 @@
-# task_specific_geometric_sensitive_hashing
+# Task-specific Geometric Sensitive Hashing (T-GSH)
