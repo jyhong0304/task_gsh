@@ -14,6 +14,11 @@ process where each task is associated with a high-dimensional manifold, which ca
 neuromodulatory systems. Following this formulation, we define *Task-specific Geometric Sensitive Hashing* and show
 that a randomly weighted neural network with a neuromodulation system can realize this function.
 
+## Experiments
+* RotationMNIST: See ```FlyNet - RotationMNIST.ipynb```
+* ShiftMNIST: Code will be posted soon :)
+* AugmentMNIST: Code will be posted soon :)
+
 ## Acknowledgement
 Our work is based on:
 * [For Manifold Learning, Deep Neural Networks can be Locality Sensitive Hash Functions](https://arxiv.org/abs/2103.06875)
