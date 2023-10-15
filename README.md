@@ -15,9 +15,9 @@ neuromodulatory systems. Following this formulation, we define *Task-specific Ge
 that a randomly weighted neural network with a neuromodulation system can realize this function.
 
 ## Experiments
-* RotationMNIST: See ```FlyNet - RotationMNIST.ipynb```
-* ShiftMNIST: Code will be posted soon :)
-* AugmentMNIST: Code will be posted soon :)
+* **RotationMNIST**: See ```FlyNet - RotationMNIST.ipynb```
+* **ShiftMNIST**: Code will be posted soon :)
+* **AugmentMNIST**: Code will be posted soon :)
 
 ## Acknowledgement
 Our work is based on:
