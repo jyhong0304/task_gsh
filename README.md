@@ -1,5 +1,10 @@
 # Task-specific Geometric Sensitive Hashing (T-GSH)
 
+<p float="left">
+  <img src="figures/generating_process.png" alt="generating_process" width="13%"/>
+  <img src="figures/task_specific_geometric_hash.png" alt="task_specific_geometric_hash" width="85%" />
+</p>
+
 ## Abstract
 Geometric Sensitive Hashing functions, a family of Local Sensitive Hashing functions, are neural network models that
 learn class-specific manifold geometry in supervised learning. However, given a set of supervised learning tasks,
