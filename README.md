@@ -5,6 +5,8 @@
   <img src="figures/task_specific_geometric_hash.png" alt="task_specific_geometric_hash" width="85%" />
 </p>
 
+This repository is the official implementation of [task-specific geometric sensitive hashing](https://openreview.net/forum?id=EHvgtRcrix)
+
 ## Abstract
 Geometric Sensitive Hashing functions, a family of Local Sensitive Hashing functions, are neural network models that
 learn class-specific manifold geometry in supervised learning. However, given a set of supervised learning tasks,
@@ -23,3 +25,15 @@ that a randomly weighted neural network with a neuromodulation system can realiz
 Our work is based on:
 * [For Manifold Learning, Deep Neural Networks can be Locality Sensitive Hash Functions](https://arxiv.org/abs/2103.06875)
 * [Learning to Modulate Random Weights: Neuromodulation-inspired Neural Networks For Efficient Continual Learning](https://arxiv.org/abs/2204.04297)
+
+## Reference
+You can cite this:
+```
+@inproceedings{hong2023randomly,
+ author = {Jinyung Hong and Theodore P. Pavlic},
+ booktitle = {UniReps:  the First Workshop on Unifying Representations in Neural Models},
+ title = {Randomly Weighted Neuromodulation in Neural Networks Facilitates Learning of Manifolds Common Across Tasks},
+ url = {https://openreview.net/forum?id=EHvgtRcrix},
+ year = {2023}
+}
+```
